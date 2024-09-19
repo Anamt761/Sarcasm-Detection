@@ -94,9 +94,9 @@ This section provides a guide on how to run the scripts or Jupyter notebooks inc
 **Feature Extraction**
 
 - **Textual Features**:
-- **POS (Part-of-Speech)**: Extract grammatical structures (nouns, verbs, etc.) to capture syntactic features.
-- **TF-IDF (Term Frequency-Inverse Document Frequency)**: Generate word importance scores to emphasize distinguishing terms.
-- **N-grams**: Capture word sequences to understand context and patterns within the text.
+  - **POS (Part-of-Speech)**: Extract grammatical structures (nouns, verbs, etc.) to capture syntactic features.
+  - **TF-IDF (Term Frequency-Inverse Document Frequency)**: Generate word importance scores to emphasize distinguishing terms.
+  - **N-grams**: Capture word sequences to understand context and patterns within the text.
 - **Word Embeddings**:
   - **Word2Vec**: Learn vector representations of words to capture semantic meaning.
   - **GloVe**: Utilize global co-occurrence statistics to create word embeddings.
